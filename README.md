@@ -1,6 +1,7 @@
 # Python Daily Practice Tasks 🧠
 
 A collection of daily Python coding problems and exercises.
+Asked Claude to generate daily Python practice tasks for 30 days.
 
 ## 📌 Focus
 - Problem-solving
